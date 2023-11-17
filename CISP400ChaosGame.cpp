@@ -117,7 +117,7 @@ int main()
 			}
 		}
 		//Generate pattern
-		int maxPoints = 50000;
+		int maxPoints = 5000;
 		if (points > 3 && points < maxPoints)
 		{
 			cout << "Entering loop " << endl;

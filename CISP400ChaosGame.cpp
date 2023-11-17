@@ -91,7 +91,6 @@ int main()
 				cout << c.getCoord('y') << endl;
 			}
 		}
-		//test
 		//Coord clickCoord;
 		sf::Event event;
 		while (window.pollEvent(event))
